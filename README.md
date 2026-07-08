@@ -125,25 +125,26 @@ The project was successfully verified by:
 
 ## Jenkins Service Running
 
-![Jenkins Service](screenshots/01-jenkins-service-running.png)
+<img width="992" height="382" alt="01-jenkins-service-running" src="https://github.com/user-attachments/assets/4d6b1196-5815-4931-8728-de5724c41e77" />
 
 ---
 
 ## Successful Jenkins Pipeline
 
-![Pipeline Success](screenshots/02-pipeline-success.png)
+<img width="1920" height="1080" alt="02-pipeline-success" src="https://github.com/user-attachments/assets/e204e80e-7347-420c-857e-94e43fda3066" />
 
 ---
 
 ## Running Docker Container
 
-![Docker Container](screenshots/03-docker-container.png)
+<img width="1465" height="86" alt="3-docker-ps" src="https://github.com/user-attachments/assets/38b6ed3c-1e47-4abf-becc-ca5473322287" />
 
 ---
 
 ## Running Node.js Application
 
-![Running Application](screenshots/04-running-application.png)
+<img width="1920" height="1080" alt="4-nodejs-app" src="https://github.com/user-attachments/assets/4ed6f898-1c3f-44e9-ab40-2ec6a652e764" />
+
 
 ---
 
