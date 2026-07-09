@@ -18,7 +18,7 @@ This repository focuses on the **DevOps implementation** rather than the applica
 
 ---
 
-## Original Application
+## Original ApplicatioN
 
 The application source code was obtained from the following public repository:
 
